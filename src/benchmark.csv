@@ -1,0 +1,63 @@
+Query,ExecutionTime,Rows
+select dept_id from departments,162000,3
+select * from students where id=3,727900,1
+select * from students where id=3,220000,1
+select dept_name from departments,522700,3
+select * from students where id=3,151800,1
+select * from students,departments where students.department=departments.dept_name,1427500,5
+select * from students,470900,5
+select name,department from students where id=3,632200,1
+select * from students,departments where students.department=departments.dept_name,3727000,5
+select * from departments,1286900,3
+select * from students,departments where students.department=departments.dept_name,2267500,5
+select * from students,departments where students.department=departments.dept_name,844000,5
+select name,department from students where id=3,572700,1
+select * from students,1231300,5
+select name,department from students where id=3,1065900,1
+select * from students,1031300,5
+select * from students,departments where students.department=departments.dept_name,2372800,5
+select * from students,departments where students.department=departments.dept_name,1687100,5
+select * from students,departments where students.department=departments.dept_name,2677300,5
+select * from students,departments where students.department=departments.dept_name,2179600,5
+select * from students,departments where students.department=departments.dept_name,1106000,5
+select * from students,departments where students.department=departments.dept_name,1534200,5
+select * from students,departments where students.department=departments.dept_name,1456900,5
+select * from students,departments where students.department=departments.dept_name,1563400,5
+select * from students,5178200,5
+select * from students,2289000,5
+select * from students,13581800,5
+select * from students,9689900,5
+select * from students,1989200,5
+select * from students,2744300,5
+select * from students,583100,5
+select * from departments,3797200,3
+select * from departments,828900,3
+select * from students,2661500,5
+select * from students,2890100,5
+select name from students where id=3,685800,1
+select * from students,departments where students.department=departments.dept_name,3565100,5
+select * from students ,2360100,5
+select name from students where marks=90,483300,1
+select name from students where id=3,393800,1
+select department from students where name=Asha,346700,1
+select * from students,departments where students.department=departments.dept_name,1398600,5
+select name,dept_name from students,departments where students.department=departments.dept_name,1317700,5
+select * from students,949400,5
+select * from students,730100,5
+select name from students where department=CSE,936100,3
+select * from students,753000,5
+select * from students,719700,5
+select name from students,587800,5
+select name from students where marks=90,108700,1
+select name from students where marks=90,952600,1
+select name from students where marks=90,542900,1
+select name from students where marks=90,2163000,1
+select name from students where marks=90,1427100,1
+select name from students where marks=90,3106500,1
+select name from students where marks=90,405000,1
+select name from students where marks=90,544200,1
+select name from students where marks=90,941800,1
+select name from students where marks=90,3756400,1
+select name from students where marks=90,532000,1
+select name from students where marks=90,4680300,1
+select name from students where marks=90,449600,1
